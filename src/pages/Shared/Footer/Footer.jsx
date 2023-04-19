@@ -2,8 +2,8 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div>
-            <h3>this is footer</h3>
+        <div className='text-center'>
+            <p><small>Copy right All @Dragon News</small></p>
         </div>
     );
 };
